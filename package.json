@@ -1,0 +1,22 @@
+{
+  "name": "first_express_project",
+  "version": "0.0.1",
+  "description": "My first Node and Express project for learning purposes",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryredan/first_express_project.git"
+  },
+  "author": "Paulo Sérgio Nogueira da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryredan/first_express_project/issues"
+  },
+  "homepage": "https://github.com/ryredan/first_express_project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
